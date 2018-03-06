@@ -14,5 +14,6 @@
 ** Moving around in our outline
 ** Moving around headlines
 * Test :tag1:
-* Test :tag2:
+* TODO Donsomething :tag2:
+DEADLINE: <2018-03-06 Tue .+1w>
 
