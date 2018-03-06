@@ -14,3 +14,5 @@
 ** Moving around in our outline
 ** Moving around headlines
 * Test :tag1:
+* Test :tag2:
+
